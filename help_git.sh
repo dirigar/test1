@@ -23,8 +23,19 @@ cd test1
 
 git init 
 
-# добавление фала в будущий commint
+# добавление файлов в будущий commint
 
 git add --all
 
+# добавление файла в commit
+
+git add ./help_git.sh
+
+# создаем commit обязательно с комментарием
+
+git commit -m "ликбез по git"
+    
+    # [master (root-commit) ec25b43] ликбез по git
+    # 1 file changed, 30 insertions(+)
+    # create mode 100644 help_git.sh
 
