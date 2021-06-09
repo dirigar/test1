@@ -61,3 +61,7 @@ git checkout new_help_git
 
 git branch
 
+
+# показывает все ветки
+
+git show-branch --all
