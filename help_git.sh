@@ -49,4 +49,15 @@ git status
 
 git log --oneline
 
+# создание новый ветки 
+
+git brahch new_help_git
+
+#переключение в новую ветку
+
+git checkout new_help_git
+
+# посмотреть текущую ветку
+
+git branch
 
