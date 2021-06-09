@@ -45,6 +45,8 @@ git commit -m "ликбез по git"
 
 git status
 
+# показать лог изменений, коммиты
 
+git log --oneline
 
 
